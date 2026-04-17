@@ -31,7 +31,7 @@
 
 ### 📬 Contacto
 <p align="left">
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:chumy.dzi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tu-usuario">
