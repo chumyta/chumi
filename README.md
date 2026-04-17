@@ -1,4 +1,4 @@
-# 🐾 Chumi | Domingo Zamorano
+# Chumi 
 
 ### 👤 Sobre Mí
 
