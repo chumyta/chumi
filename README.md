@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-🛠️ Habilidades Técnicas
+
 💻 Lenguajes de Programación
 <p align="left">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
