@@ -5,6 +5,8 @@
 **Hago de too soy bakano mano**
 
 ---
+🛠️ Habilidades Técnicas
+---
 
 🌐 Desarrollo Web (Frontend & Backend)
 <p align="left">
