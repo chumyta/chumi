@@ -4,7 +4,6 @@
 
 **Hago de too soy bakano mano**
 
----
 🛠️ Habilidades Técnicas
 ---
 
