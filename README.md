@@ -1,7 +1,16 @@
 # chumi
-Me presento soy Domingo Zamorano, soy estudiante de Ingeniera Informática.
 
-Hago de too soy bakano mano
+👤 Sobre Mí
+---
+¡Hola! Soy Domingo Zamorano, un apasionado de la tecnología y el desarrollo de software.
+
+🎓 Estudiante de Ingeniería en Informática en la Universidad Santo Tomás, Sede Rancagua.
+
+💻 Actualmente enfocado en perfeccionar mis habilidades en desarrollo backend y redes.
+
+🚀 Me motiva crear soluciones eficientes, desde sistemas de gestión hasta lógica de videojuegos.
+
+📌 Constantemente aprendiendo sobre arquitectura de software, contenedores y nuevas tecnologías.
 
 🛠️ Habilidades Técnicas
 ---
@@ -22,6 +31,7 @@ Hago de too soy bakano mano
 ⚙️ Herramientas y Tecnologías
 <p align="left">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Cisco-049CAE?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
+
+
