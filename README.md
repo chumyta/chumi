@@ -1,8 +1,7 @@
 # chumi
-**Me presento soy Domingo Zamorano, soy estudiante de Ingeniera Informática.**
+Me presento soy Domingo Zamorano, soy estudiante de Ingeniera Informática.
 
-
-**Hago de too soy bakano mano**
+Hago de too soy bakano mano
 
 🛠️ Habilidades Técnicas
 ---
